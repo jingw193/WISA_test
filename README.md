@@ -2,7 +2,7 @@
 
 This is the official reproduction of [WISA](https://360cvgroup.github.io/WISA/), designed to enhance Text-to-Video models by improving their ability to simulate the real world.
 
-**[WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](https://arxiv.org/pdf/2502.14377)**
+**[WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](https://arxiv.org/pdf/2503.08153)**
 </br>
 Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Liu, Yuhang Ma, Bo Cheng, Dawei Leng‡, Yuhui Yin, Xiaodan Liang‡(*Equal Contribution, ‡Corresponding Authors)
 </br>
