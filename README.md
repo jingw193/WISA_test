@@ -1,6 +1,6 @@
 # WISA
 
-This is the official reproduction of [WISA](https://360cvgroup.github.io/WISA/), designed to enhance Text-to-Video models by improving their ability to simulate the real world.
+This is the official reproduction of [WISA](https://360cvgroup.github.io/WISA/), designed to enhance Text-to-Video models by improving their ability to simulate the real world. 
 
 **[WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](https://arxiv.org/pdf/2503.08153)**
 </br>
