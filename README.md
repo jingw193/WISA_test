@@ -12,7 +12,7 @@ Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Li
 
 ## 📰 News
 - **[2025.03.28]** 🔥 We have uploaded the [WISA-80K](https://huggingface.co/datasets/qihoo360/WISA-80K) dataset to Hugging Face, including processed video clips and annotations. 
-- **[2025.03.12]** We have released our paper [WISA](https://arxiv.org/pdf/2503.08153) and created a dedicated [project homepage](https://360cvgroup.github.io/WISA/).  
+- **[2025.03.12]** We have released our paper [WISA](https://arxiv.org/pdf/2503.08153) and created a dedicated [project homepage](https://360cvgroup.github.io/WISA/). 
 
 
 ## We Are Hiring
