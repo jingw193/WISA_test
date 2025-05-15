@@ -86,9 +86,6 @@ sh inference.sh
 
 ## ✨ Training
 
-wanx 10 13 36
-cogvideox 2 18
-
 ### 1. Download WISA-80K
 
 Download the WISA-80K dataset from [huggingface](https://huggingface.co/datasets/qihoo360/WISA-80K).
