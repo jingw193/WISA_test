@@ -23,13 +23,13 @@ Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Li
   <th align="center">Prompt</th>
 </tr>
 <tr>
-  <td align="center"><video src="/assets/videos/wan_1.mp4">Your browser does not support the video tag.</video></td>
-  <td align="center"><video src="/assets/videos/wisa_wan_1.mp4">Your browser does not support the video tag.</video></td>
+  <td align="center"><video src="assets/videos/wan_1.mp4">Your browser does not support the video tag.</video></td>
+  <td align="center"><video src="assets/videos/wisa_wan_1.mp4">Your browser does not support the video tag.</video></td>
   <th align="center">A dry clump of soil rests on a flat surface, with fine details of its texture and cracks visible. As a heavy object presses down slowly, the surface first releases a faint dust. With increasing pressure, the cracks spread, and the soil splits into uneven fragments. The fragments' surfaces display irregular patterns, while fine powder disperses into the surrounding air, creating a thin veil of dust. The entire scene captures the irreversible transformation of the soil's structure under compression.</th>
 </tr>
 <tr>
-  <td align="center"><video src="/assets/videos/wan_3.mp4">Your browser does not support the video tag.</video></td>
-  <td align="center"><video src="/assets/videos/wisa_wan_3.mp4">Your browser does not support the video tag.</video></td>
+  <td align="center"><video src="assets/videos/wan_3.mp4">Your browser does not support the video tag.</video></td>
+  <td align="center"><video src="assets/videos/wisa_wan_3.mp4">Your browser does not support the video tag.</video></td>
   <th align="center">A bowl of clear water sits in the center of a freezer. As the temperature gradually drops, tiny ice crystals begin to form on the surface, resembling a thin layer of frost. The crystals spread rapidly, connecting to create a delicate solid ice film. Over time, the film thickens and eventually covers the entire surface, while the water beneath slowly freezes. Finally, the entire bowl of water solidifies into a transparent block of ice, reflecting the faint light of the freezer and illustrating the transformation from liquid to solid.</th>
 </tr>
 <tr>
