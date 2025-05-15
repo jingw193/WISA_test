@@ -23,7 +23,7 @@ Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Li
   <th align="center">Prompt</th>
 </tr>
 <tr>
-  <td align="center"><video src="https://github.com/user-attachments/assets/fa343d48-2eea-45dc-aec2-ee6897b5995f">Your browser does not support the video tag.</video></td>
+  <td align="center"><video src="https://github.com/user-attachments/assets/fa343d48-2eea-45dc-aec2-ee6897b5995f" width=600 controls autoplay loop>Your browser does not support the video tag.</video></td>
   <td align="center"><video src="https://github.com/user-attachments/assets/45622daf-89ae-41d7-884c-5e443526c5f4">Your browser does not support the video tag.</video></td>
   <th align="center">A dry clump of soil rests on a flat surface, with fine details of its texture and cracks visible. As a heavy object presses down slowly, the surface first releases a faint dust. With increasing pressure, the cracks spread, and the soil splits into uneven fragments. The fragments' surfaces display irregular patterns, while fine powder disperses into the surrounding air, creating a thin veil of dust. The entire scene captures the irreversible transformation of the soil's structure under compression.</th>
 </tr>
