@@ -34,17 +34,6 @@ Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Li
   </tr>
   <tr>
     <td align="center" style="width: 33%;">
-      <video width="100%" controls src="https://github.com/user-attachments/assets/db5111c5-6d39-4bb3-ad05-475d38227017">Your browser does not support the video tag.</video>
-    </td>
-    <td align="center" style="width: 33%;">
-      <video width="100%" controls src="https://github.com/user-attachments/assets/0187608a-0d5c-4daa-a948-b436b80d1425">Your browser does not support the video tag.</video>
-    </td>
-    <td align="center" style="width: 34%;">
-      A bowl of clear water sits in the center of a freezer. As the temperature gradually drops...
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width: 33%;">
       <video width="100%" controls src="https://github.com/user-attachments/assets/be4ed08d-4d73-4eea-846f-74f65abcd875">Your browser does not support the video tag.</video>
     </td>
     <td align="center" style="width: 33%;">
@@ -54,6 +43,18 @@ Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Li
       The camera focuses on a toothpaste tube on the bathroom countertop. As a finger gently applies...
     </td>
   </tr>
+  <tr>
+    <td align="center" style="width: 33%;">
+      <video width="100%" controls src="https://github.com/user-attachments/assets/db5111c5-6d39-4bb3-ad05-475d38227017">Your browser does not support the video tag.</video>
+    </td>
+    <td align="center" style="width: 33%;">
+      <video width="100%" controls src="https://github.com/user-attachments/assets/0187608a-0d5c-4daa-a948-b436b80d1425">Your browser does not support the video tag.</video>
+    </td>
+    <td align="center" style="width: 34%;">
+      A bowl of clear water sits in the center of a freezer. As the temperature gradually drops...
+    </td>
+  </tr>
+
 </table>
 
 
