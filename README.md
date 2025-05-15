@@ -17,8 +17,8 @@ Jing Wang*, Ao Ma*, Ke Cao*, Jun Zheng, Zhanjie Zhang, Jiasong Feng, Shanyuan Li
 
 <table align="center" style="width: 100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%;">
-    <col style="width: 35%;">
+    <col style="width: 45%;">
+    <col style="width: 45%;">
     <col style="width: 30%;">
   </colgroup>
   <tr>
