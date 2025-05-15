@@ -1,0 +1,2 @@
+from .base_specification import CogVideoXModelSpecification
+from .wisa_specification import WISACogVideoXModelSpecification

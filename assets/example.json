@@ -1,0 +1,44 @@
+[
+    {
+        "phys_law": "the most important physical principle to consider in this scenario is the concept of stress and strain in materials, particularly how materials deform under applied forces. as the heavy object exerts pressure on the soil, it leads to elastic deformation initially, followed by plastic deformation and eventual failure, resulting in the fragmentation of the soil. additionally, the phenomenon of granular flow should be noted, as the fine particles and dust disperse into the air, illustrating the behavior of granular materials under stress.",
+        "n0": "soil: 1.2 to 1.6 g/cm³",
+        "n1": "0 to 5 seconds",
+        "n2": "20 to 30 degrees celsius",
+        "q0": "deformation, collision",
+        "q1": "no obvious thermodynamic phenomenon.",
+        "q2": "scattering",
+        "q3": "no",
+        "q4": "1. object decomposition and splitting\n2. gas objects appearance\n3. no change",
+        "en_caption": "A dry clump of soil rests on a flat surface, with fine details of its texture and cracks visible. As a heavy object presses down slowly, the surface first releases a faint dust. With increasing pressure, the cracks spread, and the soil splits into uneven fragments. The fragments' surfaces display irregular patterns, while fine powder disperses into the surrounding air, creating a thin veil of dust. The entire scene captures the irreversible transformation of the soil's structure under compression.",
+        "en_caption_1": "A dry clump of soil is pressed by a heavy object, cracking into fragments and undergoing irreversible compression deformation.",
+        "label": "Deformation "
+    },
+    {
+        "phys_law": "the most important physical principle to consider is the process of freezing, which involves the transition from a liquid to a solid state as temperature decreases, governed by the laws of thermodynamics. additionally, the phenomenon of nucleation is crucial, as it describes how tiny ice crystals form and grow, leading to the development of a solid ice layer on the surface of the water, which can affect the overall freezing process and the appearance of the ice.",
+        "n0": "water: 0.998 g/cm³  \nice: 0.917 g/cm³  ",
+        "n1": "120 to 300 seconds",
+        "n2": "-10 to 0 degrees celsius",
+        "q0": "liquid motion, deformation",
+        "q1": "solidification, melting",
+        "q2": "reflection, refraction",
+        "q3": "no",
+        "q4": "1. liquid objects appearance\n2. solid objects appearance\n3. object decomposition and splitting\n4. no change",
+        "en_caption": "A bowl of clear water sits in the center of a freezer. As the temperature gradually drops, tiny ice crystals begin to form on the surface, resembling a thin layer of frost. The crystals spread rapidly, connecting to create a delicate solid ice film. Over time, the film thickens and eventually covers the entire surface, while the water beneath slowly freezes. Finally, the entire bowl of water solidifies into a transparent block of ice, reflecting the faint light of the freezer and illustrating the transformation from liquid to solid.",
+        "en_caption_1": "Clear water cools rapidly in a freezer, with crystals forming on the surface and gradually turning into a solid block of transparent ice.",
+        "label": "Solidification"
+    },
+    {
+        "phys_law": "the most important physical principle to consider in this scenario is fluid dynamics, specifically the concepts of pressure and viscosity. as pressure is applied to the toothpaste tube, the increase in pressure reduces the resistance to flow, allowing the toothpaste, which has a certain viscosity, to flow smoothly and form a uniform line on the toothbrush. additionally, the interaction between the toothpaste and the bristles can be influenced by surface tension and adhesion, which may affect how the toothpaste adheres to the bristles.",
+        "n0": "toothpaste: 1.0 to 1.5 g/cm³",
+        "n1": "0 to 5 seconds",
+        "n2": "20 to 25 degrees celsius",
+        "q0": "liquid motion, deformation",
+        "q1": "no obvious thermodynamic phenomenon.",
+        "q2": "no obvious optical phenomenon",
+        "q3": "no",
+        "q4": "1. liquids objects appearance\n2. no change",
+        "en_caption": "The camera focuses on a toothpaste tube on the bathroom countertop. As a finger gently applies pressure to one end of the tube, a steady stream of toothpaste begins to emerge from the opening. At first, the toothpaste flows slowly, but as the pressure increases, the flow speeds up, forming a smooth, white line. The surface of the toothpaste is smooth with delicate textures, and the air around the nozzle is filled with a fresh, minty scent. Eventually, the toothpaste forms a uniform line, neatly resting on the bristles of a toothbrush, ready for brushing.",
+        "en_caption_1": "Toothpaste is squeezed out from the tube, gradually forming a continuous line.",
+        "label": "Solid Objects Appearance"
+    }
+]

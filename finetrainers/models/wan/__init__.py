@@ -1,0 +1,2 @@
+from .base_specification import WanModelSpecification
+from .wisa_specification import WISAWanModelSpecification
